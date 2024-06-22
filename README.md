@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/46b8d91ae101191fb187caff3f4ed098a54a02877efda2ada2c8c9adcb2f0eba/68747470733a2f2f692e6962622e636f2f33685371764b6e2f3230393433383631392d32353039316364662d613132362d346539352d613234632d3565666466383035373630362e676966)
+![MasterHead](https://camo.githubusercontent.com/46b8d91ae101191fb187caff3f4ed098a54a02877efda2ada2c8c9adcb2f0eba/68747470733a2f2f692e6962622e636f2f33685371764b6e2f3230393433383631392d32353039316364662d613132362d346539352d613234632d3565666466383035373630362e676966)
 
 <h1 align="center">Hi 👋, I'm Theekshana Vimukthi Fernando</h1>
 <h3 align="center">A passionate Web and Mobile Application developer</h3>
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **theekshana.jny@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Pe2rS1P-vx3fq4AhrAplj9SEm95cdvem/view?usp=drive_link](https://drive.google.com/file/d/1Pe2rS1P-vx3fq4AhrAplj9SEm95cdvem/view?usp=drive_link)
+- 📄 Know about my experiences [https://bit.ly/Theekshana-Resume]
 
 - ⚡ Fun fact **I love music**
 
